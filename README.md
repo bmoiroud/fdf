@@ -16,11 +16,12 @@ $> git clone https://github.com/bmoiroud/fdf.git && cd fdf && make
 $> ./fdf <map>
 ```
 
-| Key         | Action         |
-|:-----------:|:---------------|
-| +/-         | zoom in/out    |
-| w/s         | z+/z-          |
-| R           | reset view     |
-| F           | fill           |
-| Esc         | exit           |
-| Arrows      | move around    |
+| Key         | Action            |
+|:-----------:|:------------------|
+| +/-         | zoom in/out       |
+| w/s         | z+/z-             |
+| P           | change projection |
+| R           | reset view        |
+| F           | fill              |
+| Esc         | exit              |
+| Arrows      | move around       |
