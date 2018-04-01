@@ -4,6 +4,8 @@
 
 This project is about creating a simplified 3d view of a relief map
 
+<img src="./img/img.png"/>
+
 ## Installation
 
 ``` bash
