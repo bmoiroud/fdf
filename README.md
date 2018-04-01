@@ -6,13 +6,13 @@ This project is about creating a simplified 3d view of a relief map
 
 ## Installation
 
-```
+``` bash
 $> git clone https://github.com/bmoiroud/fdf.git && cd fdf && make
 ```
 
 ## usage
 
-```
+```bash
 $> ./fdf <map>
 ```
 
