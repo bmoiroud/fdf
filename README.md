@@ -1,8 +1,8 @@
 # FDF
 
-## Project Overview
+## Description
 
-This project is about creating a simplified 3d view of a relief map
+Ce projet consiste à créer une représentation 3D simplifiée d'une carte en relief.
 
 <img src="./img/img.png"/>
 
@@ -12,18 +12,18 @@ This project is about creating a simplified 3d view of a relief map
 $> git clone https://github.com/bmoiroud/fdf.git && cd fdf && make
 ```
 
-## usage
+## Utilisation
 
 ```bash
 $> ./fdf <map>
 ```
 
-| Key         | Action            |
+| Touche      | Action            |
 |:-----------:|:------------------|
-| +/-         | zoom in/out       |
-| w/s         | z+/z-             |
-| P           | change projection |
-| R           | reset view        |
-| F           | fill              |
-| Esc         | exit              |
-| Arrows      | move around       |
+| + / -       | zoom + / -        |
+| W / S       | z+ / z-           |
+| P           | changer de projection |
+| R           | réinitialiser la vue  |
+| F           | remplissage           |
+| Esc         | quitter           |
+| Touches fléchées | déplacement       |
